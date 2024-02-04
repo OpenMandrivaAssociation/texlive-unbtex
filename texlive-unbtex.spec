@@ -1,6 +1,6 @@
 Name:		texlive-unbtex
-Version:	64634
-Release:	2
+Version:	69681
+Release:	1
 Summary:	A class for theses at University of Brasilia (UnB)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unbtex
