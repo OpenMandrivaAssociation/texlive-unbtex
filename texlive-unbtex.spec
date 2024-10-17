@@ -3,7 +3,7 @@ Version:	71708
 Release:	1
 Summary:	A class for theses at University of Brasilia (UnB)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unbtex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unbtex
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unbtex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unbtex.doc.r%{version}.tar.xz
