@@ -1,5 +1,5 @@
 Name:		texlive-unbtex
-Version:	71708
+Version:	72488
 Release:	1
 Summary:	A class for theses at University of Brasilia (UnB)
 Group:		Publishing
